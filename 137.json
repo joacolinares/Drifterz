@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_138.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Mixed Feelings"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Base Drift Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swept Back wood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Teal"
+    }
+  ]
+}

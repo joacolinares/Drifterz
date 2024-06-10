@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_116.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Dawn"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Rookie"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Hype Forest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gum"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks Hazy Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aura Whitestrike"
+    }
+  ]
+}

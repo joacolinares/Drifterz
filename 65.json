@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_65.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Droplets"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Ai Type Burning Red"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Rogue Neutral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Undercut Shaved Fall"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aura Fallen"
+    }
+  ]
+}

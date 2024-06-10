@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_6.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Windy Road"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Rebel Classic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Underground"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "ShortCombed Midnight Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wink"
+    }
+  ]
+}
