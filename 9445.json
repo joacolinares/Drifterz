@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_9447.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Harmony"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Underground Champion"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Classic Type 5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swept Back Red Dawn"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal Hazy Purple"
+    }
+  ]
+}

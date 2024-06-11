@@ -5,15 +5,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Base Blue"
+      "value": "Moon Base"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Broken Path"
+      "value": "Submerged"
     },
     {
       "trait_type": "Base",
-      "value": "Tan"
+      "value": "Brown"
     },
     {
       "trait_type": "Attire",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Bored"
+      "value": "Calm"
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Forest Green"
+      "value": "Medium Drop Down Hazy Purple"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Teal"
+      "value": "Normal Ocean Blue"
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_6741.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Harmony"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Submerged"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Cyber Punk Flames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braided Cornrows Forest Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Furious Teal"
+    }
+  ]
+}

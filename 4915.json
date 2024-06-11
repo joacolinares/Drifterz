@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_4915.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Horizon"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Mixed Feelings"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Kage Forest Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Undercut Shaved Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Furious Sunset"
+    }
+  ]
+}

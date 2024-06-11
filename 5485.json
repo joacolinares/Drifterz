@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_5485.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Harmony"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Based Sunset"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Ai Silver"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Dreamer Midnight"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Underground"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "ShortSpiky Red Dawn"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Forest Green Wink"
+    }
+  ]
+}

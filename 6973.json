@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_6973.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Base"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Broken Path"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Underground Grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Undercut Shaved Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Furious Ocean Blue"
+    }
+  ]
+}

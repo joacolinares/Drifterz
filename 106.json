@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moon Base"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Abstract"
+      "value": "Based Concrete"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
-      "value": "Dreamer Wood"
+      "value": "Underground Grey"
     },
     {
       "trait_type": "Mouth",
-      "value": "Meh"
+      "value": "Calm"
     },
     {
       "trait_type": "Hair",
-      "value": "Classic Aurora"
+      "value": "ShortCombed Midnight Blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Sunset"
+      "value": "Sleep"
     }
   ]
 }

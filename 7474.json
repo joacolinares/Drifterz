@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_7474.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chaos"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Elite"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Rebel Midnight"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swept Back wood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal Sunset"
+    }
+  ]
+}

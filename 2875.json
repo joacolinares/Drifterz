@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_2875.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Dawn"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Classic Type 5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Piercing"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Disheveled Ashen Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal Teal"
+    }
+  ]
+}

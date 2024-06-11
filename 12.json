@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Balance"
+      "value": "Circuit"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Sunset"
+      "value": "Moon Cloud"
     },
     {
       "trait_type": "Base",
-      "value": "Tan"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Kage Teal"
+      "value": "Urban Purple"
     },
     {
       "trait_type": "Mouth",
-      "value": "Pink Gum"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Light Mahogany"
+      "value": "Swept Back Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Fallen Wink"
+      "value": "Normal Sunrise"
     }
   ]
 }

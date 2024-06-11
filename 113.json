@@ -5,23 +5,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Halo"
+      "value": "Balance"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Submerged"
+      "value": "Based Sunset"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Ai Type Generic"
     },
     {
       "trait_type": "Attire",
-      "value": "Classic Type 1"
+      "value": "Classic Type 4"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smirk"
+      "value": "Pout"
     },
     {
       "trait_type": "Hair",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Teal Wink"
+      "value": "Normal Ocean Blue"
     }
   ]
 }

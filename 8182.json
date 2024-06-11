@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_8182.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Synthetic Wave"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Kage Midnight"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Classic Hazy Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ai Frozen"
+    }
+  ]
+}

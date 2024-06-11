@@ -1,15 +1,15 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_61.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_62.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Drifterz"
+      "value": "Red Dawn"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Abstract"
+      "value": "Rookie"
     },
     {
       "trait_type": "Base",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Attire",
-      "value": "Urban Cloud"
+      "value": "Base Drift Neutral"
     },
     {
       "trait_type": "Mouth",
-      "value": "Gum"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Forest Green"
+      "value": "ShortSpiky Fall"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Sunset"
+      "value": "Normal Sunrise"
     }
   ]
 }

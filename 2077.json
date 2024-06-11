@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_2077.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Droplets"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Underground Champion"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Rogue Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Combed Ashen Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal Aurora"
+    }
+  ]
+}

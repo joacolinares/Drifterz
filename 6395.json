@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_6395.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Moon Cloud"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Vagabond Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Furious"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Disheveled Ashen Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ai Flames Wink"
+    }
+  ]
+}

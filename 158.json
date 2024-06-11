@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Circuit"
+      "value": "Static White"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Mixed Feelings"
+      "value": "Rookie"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Burning Red"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Static Midnight Teal"
+      "value": "Urban Midnight"
     },
     {
       "trait_type": "Mouth",
-      "value": "Whistle"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Teal"
+      "value": "Swept Back Light Mahogany"
     },
     {
       "trait_type": "Eyes",
-      "value": "Bored Aurora"
+      "value": "Normal Aurora"
     }
   ]
 }

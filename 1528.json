@@ -1,0 +1,35 @@
+{
+  "name": "Drifterz",
+  "description": "Drifterz Colecction",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_1528.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Cyclone"
+    },
+    {
+      "trait_type": "DrifterBoard",
+      "value": "Submerged"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Ai Gold"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "Dreamer Wood"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Medium Drop Down Wood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ai Hazy Purple"
+    }
+  ]
+}

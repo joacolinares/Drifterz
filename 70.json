@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Base Blue"
+      "value": "Red Dawn"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Concrete"
+      "value": "Rookie"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Burning Red"
+      "value": "Ai Type Generic"
     },
     {
       "trait_type": "Attire",
-      "value": "Rogue Green"
+      "value": "Hype Hazy Purple"
     },
     {
       "trait_type": "Mouth",
-      "value": "Furious"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Disheveled Teal"
+      "value": "Swept Back wood"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Sunset"
+      "value": "Aura Whiteout"
     }
   ]
 }

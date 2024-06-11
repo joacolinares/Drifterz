@@ -1,11 +1,11 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_194.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_195.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Halo"
+      "value": "Whirlpool"
     },
     {
       "trait_type": "DrifterBoard",
@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Tan"
     },
     {
       "trait_type": "Attire",
-      "value": "Base Drift Neutral"
+      "value": "Hype Teal"
     },
     {
       "trait_type": "Mouth",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Teal"
+      "value": "ShortBraided Shaved Brown"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Sunrise"
+      "value": "Bored Sunset"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_155.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_153.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Harmony"
+      "value": "Whirlpool"
     },
     {
       "trait_type": "DrifterBoard",
@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Generic"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Base Drift Midnight"
+      "value": "Base Drift Neutral"
     },
     {
       "trait_type": "Mouth",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "ShortSpiky Ocean Blue"
+      "value": "ShortCombed Cinnamon"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Ocean Blue"
+      "value": "Bored Sunrise Wink"
     }
   ]
 }

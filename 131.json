@@ -1,35 +1,35 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_132.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_131.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Harmony"
+      "value": "Static White"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Concrete"
+      "value": "Based Sunset"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Generic"
+      "value": "Tan"
     },
     {
       "trait_type": "Attire",
-      "value": "Wind Drifter Orange"
+      "value": "Rebel Navy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Pout"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "ShortSpiky Red Dawn"
+      "value": "Long Braids Midnight Blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "Fuschia Pink Wink"
+      "value": "Normal Aurora"
     }
   ]
 }

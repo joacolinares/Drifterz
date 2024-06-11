@@ -5,19 +5,19 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Whirlpool"
+      "value": "Halo"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Elite"
+      "value": "Hellflame"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Ai Type Burning Red"
     },
     {
       "trait_type": "Attire",
-      "value": "Underground Red"
+      "value": "Dreamer Blue"
     },
     {
       "trait_type": "Mouth",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Dreadlocks Neutral"
+      "value": "ShortCombed Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Sunrise"
+      "value": "Bored Aurora"
     }
   ]
 }

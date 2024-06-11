@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Midnight Blue"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Burning Red"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
-      "value": "Wind Drifter Blue"
+      "value": "Base Drift Midnight"
     },
     {
       "trait_type": "Mouth",
-      "value": "Furious"
+      "value": "Piercing"
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back wood"
+      "value": "ShortCombed Midnight Blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aurora Blink"
+      "value": "Furious Ocean Blue"
     }
   ]
 }

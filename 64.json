@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Drifterz"
+      "value": "Red Dawn"
     },
     {
       "trait_type": "DrifterBoard",
@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Base",
-      "value": "Tan"
+      "value": "Ai Type Burning Red"
     },
     {
       "trait_type": "Attire",
-      "value": "Cyber Punk Ash Silver"
+      "value": "Underground Grey"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smirk"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "ShortCombed Cinnamon"
+      "value": "Medium Drop Down Midnight Blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ai Frozen"
+      "value": "Normal Sunset"
     }
   ]
 }

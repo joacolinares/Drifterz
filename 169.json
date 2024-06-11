@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moon Base"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Abstract"
+      "value": "Burning Cloud"
     },
     {
       "trait_type": "Base",
-      "value": "Pale"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Rebel Navy"
+      "value": "Rogue Red"
     },
     {
       "trait_type": "Mouth",
-      "value": "Furious"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Classic Ashen Wood"
+      "value": "ShortCombed Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sunset Wink"
+      "value": "Bored Aurora"
     }
   ]
 }

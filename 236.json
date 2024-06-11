@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Static White"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Sunset"
+      "value": "Based Ocean"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Electric Blue"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Base Drift Red"
+      "value": "Classic Type 4"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Calm"
     },
     {
       "trait_type": "Hair",
-      "value": "Undercut Shaved Wood"
+      "value": "ShortCombed Grass"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Sunset"
+      "value": "Furious Ocean Blue"
     }
   ]
 }

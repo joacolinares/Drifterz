@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Balance"
+      "value": "Chaos"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Burning Cloud"
+      "value": "Mixed Feelings"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
-      "value": "Classic Type 1"
+      "value": "Rebel Sunrise"
     },
     {
       "trait_type": "Mouth",
-      "value": "Gum"
+      "value": "Meh"
     },
     {
       "trait_type": "Hair",
-      "value": "Disheveled Ashen Grey"
+      "value": "ShortCombed Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ai Ocean Blue"
+      "value": "Furious Ocean Blue"
     }
   ]
 }

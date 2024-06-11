@@ -5,11 +5,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Balance"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Underground Champion"
+      "value": "Rookie"
     },
     {
       "trait_type": "Base",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Attire",
-      "value": "Hype Midnight"
+      "value": "Wind Drifter Blue"
     },
     {
       "trait_type": "Mouth",
-      "value": "Piercing"
+      "value": "Gangster"
     },
     {
       "trait_type": "Hair",
-      "value": "ShortSpiky Wood"
+      "value": "Buzz Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wink"
+      "value": "Normal Teal"
     }
   ]
 }

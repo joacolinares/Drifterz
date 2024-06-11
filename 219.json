@@ -1,35 +1,35 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_218.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_219.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Base Blue"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Abstract"
+      "value": "Based Ocean"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Ai Type Generic"
     },
     {
       "trait_type": "Attire",
-      "value": "Rebel Sunrise"
+      "value": "Urban Red"
     },
     {
       "trait_type": "Mouth",
-      "value": "Calm"
+      "value": "Piercing"
     },
     {
       "trait_type": "Hair",
-      "value": "Dreadlocks Hazy Purple"
+      "value": "Undercut Shaved Wood"
     },
     {
       "trait_type": "Eyes",
-      "value": "Bored Sunrise"
+      "value": "Normal Aurora"
     }
   ]
 }

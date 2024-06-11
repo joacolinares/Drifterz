@@ -1,7 +1,7 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_52.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_51.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -9,27 +9,27 @@
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Dark Cloud"
+      "value": "Underground Champion"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Ai Type Burning Red"
     },
     {
       "trait_type": "Attire",
-      "value": "Kage Forest Green"
+      "value": "Base Drift Wood"
     },
     {
       "trait_type": "Mouth",
-      "value": "Whistle"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "ShortCombed Grass"
+      "value": "Disheveled Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Hazy Purple"
+      "value": "Normal Teal"
     }
   ]
 }

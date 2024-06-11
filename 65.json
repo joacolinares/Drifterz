@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Droplets"
+      "value": "Horizon"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Abstract"
+      "value": "Elite"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Burning Red"
+      "value": "Brown"
     },
     {
       "trait_type": "Attire",
-      "value": "Rogue Neutral"
+      "value": "Hero Red"
     },
     {
       "trait_type": "Mouth",
-      "value": "Calm"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Undercut Shaved Fall"
+      "value": "Swept Back wood"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aura Fallen"
+      "value": "Ai Hazy Purple"
     }
   ]
 }

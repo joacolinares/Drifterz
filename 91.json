@@ -1,15 +1,15 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_93.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_90.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Harmony"
+      "value": "Halo"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Windy Road"
+      "value": "Based Ocean"
     },
     {
       "trait_type": "Base",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Attire",
-      "value": "Street Type 1 Candypop"
+      "value": "Base Drift Wood"
     },
     {
       "trait_type": "Mouth",
-      "value": "Grin"
+      "value": "Bleh"
     },
     {
       "trait_type": "Hair",
-      "value": "Spiky Combed Teal"
+      "value": "Swept Back Forest Green"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Aurora"
+      "value": "Normal Sunrise"
     }
   ]
 }

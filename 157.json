@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moon Base"
+      "value": "Balance"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Concrete"
+      "value": "Abstract"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Dreamer Wood"
+      "value": "Base Drift Red"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Whistle"
     },
     {
       "trait_type": "Hair",
-      "value": "Undercut Shaved Fall"
+      "value": "Swept Back wood"
     },
     {
       "trait_type": "Eyes",
-      "value": "Bored Teal Wink"
+      "value": "Normal Teal"
     }
   ]
 }

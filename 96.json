@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Halo"
+      "value": "Circuit"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Sunset"
+      "value": "Burning Cloud"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Ai Gold"
     },
     {
       "trait_type": "Attire",
-      "value": "Urban Red"
+      "value": "Classic Type 1"
     },
     {
       "trait_type": "Mouth",
-      "value": "Bored"
+      "value": "Calm"
     },
     {
       "trait_type": "Hair",
-      "value": "ShortCombed Purple"
+      "value": "Dreadlocks Forest Green"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Sunset"
+      "value": "Normal Ocean Blue"
     }
   ]
 }

@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Chaos"
+      "value": "Balance"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Elite"
+      "value": "Rookie"
     },
     {
       "trait_type": "Base",
-      "value": "Pale"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Base Drift Wood"
+      "value": "Hype Midnight"
     },
     {
       "trait_type": "Mouth",
-      "value": "Calm"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Medium Drop Down Magenta"
+      "value": "PonyTail Shaved Wood"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Hazy Purple"
+      "value": "Ai Flames"
     }
   ]
 }

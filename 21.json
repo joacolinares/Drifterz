@@ -5,15 +5,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Deep Black"
+      "value": "Red Dawn"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Ocean"
+      "value": "Moon Cloud"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Generic"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Bored"
+      "value": "Leaf"
     },
     {
       "trait_type": "Hair",
-      "value": "ShortCombed Purple"
+      "value": "Undercut Shaved Red Dawn"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Sunset"
+      "value": "Aurora Blink"
     }
   ]
 }

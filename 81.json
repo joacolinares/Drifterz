@@ -5,23 +5,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Droplets"
+      "value": "Balance"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Dark Cloud"
+      "value": "Aurora"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
-      "value": "Rogue Blue"
+      "value": "Wind Drifter Orange"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smirk"
+      "value": "Furious"
     },
     {
       "trait_type": "Hair",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Aura Enlightened"
+      "value": "Furious Hazy Purple"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_104.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_103.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -9,27 +9,27 @@
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Underground Champion"
+      "value": "Elite"
     },
     {
       "trait_type": "Base",
-      "value": "Tan"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Static Ash Grey"
+      "value": "Kage Teal"
     },
     {
       "trait_type": "Mouth",
-      "value": "Scream"
+      "value": "Furious"
     },
     {
       "trait_type": "Hair",
-      "value": "Medium Drop Down Midnight Blue"
+      "value": "ShortCombed Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Fallen Wink"
+      "value": "Furious Sunrise"
     }
   ]
 }

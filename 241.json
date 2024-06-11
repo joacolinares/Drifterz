@@ -1,7 +1,7 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_240.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_241.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -9,27 +9,27 @@
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Broken Path"
+      "value": "Moon Cloud"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Cyber Punk Midnight Teal"
+      "value": "Cyber Punk Midnight"
     },
     {
       "trait_type": "Mouth",
-      "value": "Pink Gum"
+      "value": "Smirk"
     },
     {
       "trait_type": "Hair",
-      "value": "Undercut Shaved Purple"
+      "value": "Ponytail Shaved Aurora"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Aurora"
+      "value": "Bored Teal"
     }
   ]
 }

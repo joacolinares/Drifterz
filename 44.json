@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Base Blue"
+      "value": "Midnight Blue"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Underground Champion"
+      "value": "Dark Cloud"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Ai Gold"
     },
     {
       "trait_type": "Attire",
-      "value": "Underground Teal"
+      "value": "Dreamer Forest"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smirk"
+      "value": "Smoking"
     },
     {
       "trait_type": "Hair",
-      "value": "Classic Fall"
+      "value": "ShortSpiky Ocean Blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ai Forest Green"
+      "value": "Sleep"
     }
   ]
 }

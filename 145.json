@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Balance"
+      "value": "Droplets"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Sunset"
+      "value": "Burning Cloud"
     },
     {
       "trait_type": "Base",
-      "value": "Pale"
+      "value": "Ai Type Generic"
     },
     {
       "trait_type": "Attire",
-      "value": "Classic Type 1"
+      "value": "Static Midnight"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Light Mahogany"
+      "value": "Swept Back wood"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aura Blackout"
+      "value": "Bored Sunset"
     }
   ]
 }

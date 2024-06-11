@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Red Dawn"
+      "value": "Chaos"
     },
     {
       "trait_type": "DrifterBoard",
@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Urban Cloud"
+      "value": "Underground Teal"
     },
     {
       "trait_type": "Mouth",
-      "value": "Bored"
+      "value": "Underground"
     },
     {
       "trait_type": "Hair",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Hazy Purple Wink"
+      "value": "Furious Sunset"
     }
   ]
 }

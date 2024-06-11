@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Red Dawn"
+      "value": "Drifterz"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Concrete"
+      "value": "Submerged"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
-      "value": "Rogue Blue"
+      "value": "Static Midnight"
     },
     {
       "trait_type": "Mouth",
-      "value": "Piercing"
+      "value": "Whistle"
     },
     {
       "trait_type": "Hair",
-      "value": "Classic Sky Blue"
+      "value": "Swept Back Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ai Forest Green"
+      "value": "Normal Teal"
     }
   ]
 }

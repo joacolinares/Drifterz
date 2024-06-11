@@ -5,11 +5,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Base Blue"
+      "value": "Moon Base"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Skullborn"
+      "value": "Rookie"
     },
     {
       "trait_type": "Base",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Attire",
-      "value": "Underground Red"
+      "value": "Dreamer Magenta"
     },
     {
       "trait_type": "Mouth",
-      "value": "Scream"
+      "value": "Pink Gum"
     },
     {
       "trait_type": "Hair",
-      "value": "Undercut Shaved Wood"
+      "value": "Medium Drop Down Wood"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Sunset"
+      "value": "Frozen Wink"
     }
   ]
 }

@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Circuit"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Abstract"
+      "value": "Skullborn"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Electric Blue"
+      "value": "Tan"
     },
     {
       "trait_type": "Attire",
-      "value": "Hype Ash Grey"
+      "value": "Elite Candypop"
     },
     {
       "trait_type": "Mouth",
-      "value": "Pout"
+      "value": "Calm"
     },
     {
       "trait_type": "Hair",
-      "value": "Disheveled Ashen Grey"
+      "value": "Long Braids Dark Mahogany"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aurora Blink"
+      "value": "Furious Ocean Blue"
     }
   ]
 }

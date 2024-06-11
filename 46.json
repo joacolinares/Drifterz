@@ -5,19 +5,19 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Deep Black"
+      "value": "Chaos"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Skullborn"
+      "value": "Based Concrete"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Electric Blue"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
-      "value": "Rogue Red"
+      "value": "Wind Drifter Teal"
     },
     {
       "trait_type": "Mouth",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Red Dawn"
+      "value": "ShortCombed Midnight Blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aura Whitestrike"
+      "value": "Bored Sunset"
     }
   ]
 }

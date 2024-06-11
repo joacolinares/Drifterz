@@ -5,19 +5,19 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Kinetic Blue"
+      "value": "Drifterz"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Burning Cloud"
+      "value": "Elite"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Gold"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Dreamer Forest"
+      "value": "Base Drift Blue"
     },
     {
       "trait_type": "Mouth",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Medium Drop Down Hazy Purple"
+      "value": "Classic Hazy Purple"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Teal"
+      "value": "Furious Teal"
     }
   ]
 }

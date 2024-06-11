@@ -1,31 +1,31 @@
 {
   "name": "Drifterz",
   "description": "Drifterz Colecction",
-  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_25.png",
+  "image": "https://raw.githubusercontent.com/joacolinares/Drifterz/main/NFT_23.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Harmony"
+      "value": "Droplets"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Underground Champion"
+      "value": "Submerged"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Wind Drifter Blue"
+      "value": "Dreamer Wood"
     },
     {
       "trait_type": "Mouth",
-      "value": "Gangster"
+      "value": "Leaf"
     },
     {
       "trait_type": "Hair",
-      "value": "Buzz Cut"
+      "value": "ShortCombed Midnight Blue"
     },
     {
       "trait_type": "Eyes",

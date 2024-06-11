@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moon Base"
+      "value": "Static White"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Ocean"
+      "value": "Rookie"
     },
     {
       "trait_type": "Base",
-      "value": "Dark Energy"
+      "value": "Brown"
     },
     {
       "trait_type": "Attire",
-      "value": "Rebel Navy"
+      "value": "Rogue Neutral"
     },
     {
       "trait_type": "Mouth",
-      "value": "Furious"
+      "value": "Grin"
     },
     {
       "trait_type": "Hair",
-      "value": "Long Braids Midnight Blue"
+      "value": "Medium Drop Down Magenta"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Hazy Purple"
+      "value": "Bored Teal Wink"
     }
   ]
 }

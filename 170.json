@@ -5,19 +5,19 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grid"
+      "value": "Base Blue"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Aurora"
+      "value": "Elite"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Tan"
     },
     {
       "trait_type": "Attire",
-      "value": "Classic Type 4"
+      "value": "Rebel Sunrise"
     },
     {
       "trait_type": "Mouth",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Braided Cornrows Ash"
+      "value": "Undercut Shaved Red Dawn"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Ocean Blue"
+      "value": "Normal Sunrise"
     }
   ]
 }

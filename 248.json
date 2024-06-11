@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Balance"
+      "value": "Droplets"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Concrete"
+      "value": "Underground Champion"
     },
     {
       "trait_type": "Base",
-      "value": "Tan"
+      "value": "Brown"
     },
     {
       "trait_type": "Attire",
-      "value": "Base Drift Wood"
+      "value": "Base Drift Red"
     },
     {
       "trait_type": "Mouth",
-      "value": "Scream"
+      "value": "Leaf"
     },
     {
       "trait_type": "Hair",
-      "value": "Dreadlocks Hazy Purple"
+      "value": "Disheveled Midnight"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Aurora"
+      "value": "Furious Hazy Purple"
     }
   ]
 }

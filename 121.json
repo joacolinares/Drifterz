@@ -5,11 +5,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Balance"
+      "value": "Halo"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Dark Cloud"
+      "value": "Hellflame"
     },
     {
       "trait_type": "Base",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Attire",
-      "value": "Street Type 1 Ash Grey"
+      "value": "Underground Sky Blue"
     },
     {
       "trait_type": "Mouth",
-      "value": "Piercing"
+      "value": "Meh"
     },
     {
       "trait_type": "Hair",
-      "value": "Braided Cornrows Magenta"
+      "value": "Swept Back Red Dawn"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ai Hazy Purple"
+      "value": "Normal Sunrise"
     }
   ]
 }

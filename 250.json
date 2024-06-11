@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Circuit"
+      "value": "Chaos"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Elite"
+      "value": "Underground Champion"
     },
     {
       "trait_type": "Base",
-      "value": "Tan"
+      "value": "Brown"
     },
     {
       "trait_type": "Attire",
-      "value": "Kage Wood"
+      "value": "Rebel Sunrise"
     },
     {
       "trait_type": "Mouth",
-      "value": "Furious"
+      "value": "Scream"
     },
     {
       "trait_type": "Hair",
-      "value": "Dreadlocks Forest Green"
+      "value": "Classic Aurora"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Hazy Purple"
+      "value": "Ai Frozen"
     }
   ]
 }

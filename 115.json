@@ -5,19 +5,19 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Halo"
+      "value": "Droplets"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Underground Champion"
+      "value": "Based Ocean"
     },
     {
       "trait_type": "Base",
-      "value": "Ai Type Generic"
+      "value": "Tan"
     },
     {
       "trait_type": "Attire",
-      "value": "Base Drift Red"
+      "value": "Wind Drifter Neutral"
     },
     {
       "trait_type": "Mouth",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Classic Sky Blue"
+      "value": "Undercut Shaved Purple"
     },
     {
       "trait_type": "Eyes",
-      "value": "Furious Teal"
+      "value": "Normal Teal"
     }
   ]
 }

@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Whirlpool"
+      "value": "Droplets"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Ocean"
+      "value": "Elite"
     },
     {
       "trait_type": "Base",
-      "value": "Tan"
+      "value": "Brown"
     },
     {
       "trait_type": "Attire",
-      "value": "Hero Red"
+      "value": "Classic Type 1"
     },
     {
       "trait_type": "Mouth",
-      "value": "Scream"
+      "value": "Leaf"
     },
     {
       "trait_type": "Hair",
-      "value": "Swept Back Red Dawn"
+      "value": "Swept Back Teal"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ai Flames"
+      "value": "Furious Teal"
     }
   ]
 }

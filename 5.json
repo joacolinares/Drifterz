@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moon Base"
+      "value": "Harmony"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Based Sunset"
+      "value": "Based Concrete"
     },
     {
       "trait_type": "Base",
-      "value": "Dark"
+      "value": "Pale"
     },
     {
       "trait_type": "Attire",
-      "value": "Kage Hazy Purple"
+      "value": "Underground Black"
     },
     {
       "trait_type": "Mouth",
-      "value": "Meh"
+      "value": "Bored"
     },
     {
       "trait_type": "Hair",
-      "value": "Undercut Shaved Teal"
+      "value": "Disheveled Ashen Grey"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Sunrise"
+      "value": "Furious Sunrise"
     }
   ]
 }

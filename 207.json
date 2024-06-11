@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Circuit"
+      "value": "Balance"
     },
     {
       "trait_type": "DrifterBoard",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Attire",
-      "value": "Dreamer Forest"
+      "value": "Dreamer Wood"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smirk"
+      "value": "Furious"
     },
     {
       "trait_type": "Hair",
-      "value": "Undercut Shaved Fall"
+      "value": "Undercut Shaved Purple"
     },
     {
       "trait_type": "Eyes",
-      "value": "Bored Aurora"
+      "value": "Normal Hazy Purple"
     }
   ]
 }

@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Droplets"
+      "value": "Chaos"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Burning Cloud"
+      "value": "Submerged"
     },
     {
       "trait_type": "Base",
-      "value": "Pale"
+      "value": "Tan"
     },
     {
       "trait_type": "Attire",
-      "value": "Dreamer Midnight"
+      "value": "Base Drift Midnight"
     },
     {
       "trait_type": "Mouth",
-      "value": "Pink Gum"
+      "value": "Smirk"
     },
     {
       "trait_type": "Hair",
-      "value": "Buzz Cut"
+      "value": "Braided Cornrows Hazy Purple"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal Teal"
+      "value": "Ai Flames"
     }
   ]
 }

@@ -5,31 +5,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Harmony"
+      "value": "Moon Base"
     },
     {
       "trait_type": "DrifterBoard",
-      "value": "Broken Path"
+      "value": "Underground Champion"
     },
     {
       "trait_type": "Base",
-      "value": "Pale"
+      "value": "Dark"
     },
     {
       "trait_type": "Attire",
-      "value": "Classic Type 5"
+      "value": "Base Drift Neutral"
     },
     {
       "trait_type": "Mouth",
-      "value": "Piercing"
+      "value": "Smirk"
     },
     {
       "trait_type": "Hair",
-      "value": "Disheveled Teal"
+      "value": "ShortCombed Purple"
     },
     {
       "trait_type": "Eyes",
-      "value": "Hazy Purple Wink"
+      "value": "Normal Hazy Purple"
     }
   ]
 }
